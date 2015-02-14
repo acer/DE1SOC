@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, D:/Acer/Documents/Documents/GitHub/fpga/Cyclone V Series Tutorials/Part1/sockit_test.v
+source_file = 1, D:/Acer/Documents/Documents/GitHub/fpga/Cyclone V Series Tutorials/Part1/oneshot.v
+source_file = 1, D:/Acer/Documents/Documents/GitHub/fpga/Cyclone V Series Tutorials/Part1/delay_ctrl.v
+source_file = 1, D:/Acer/Documents/Documents/GitHub/fpga/Cyclone V Series Tutorials/Part1/blinker.v
+source_file = 1, D:/Acer/Documents/Documents/GitHub/fpga/Cyclone V Series Tutorials/Part1/db/sockit_test.cbx.xml
+design_name = sockit_test
+instance = comp, \CLOCK_50~input , CLOCK_50~input, sockit_test, 1
+instance = comp, \KEY[0]~input , KEY[0]~input, sockit_test, 1
+instance = comp, \KEY[1]~input , KEY[1]~input, sockit_test, 1
+instance = comp, \KEY[2]~input , KEY[2]~input, sockit_test, 1
+instance = comp, \KEY[3]~input , KEY[3]~input, sockit_test, 1
+instance = comp, \LED[0]~input , LED[0]~input, sockit_test, 1
+instance = comp, \LED[1]~input , LED[1]~input, sockit_test, 1
+instance = comp, \LED[2]~input , LED[2]~input, sockit_test, 1
+instance = comp, \LED[3]~input , LED[3]~input, sockit_test, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, sockit_test, 1
