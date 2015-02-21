@@ -1,16 +1,16 @@
 # DE1-SOC
-anything related to the DE1-SOC that I bought recently.
+Anything related to the DE1-SOC that I bought recently.
 
-## HDL Tutorials
+### HDL Tutorials
 Files from tutorials that I did for both Verilog and VHDL.
 
 
-## Practices
+### Practices
 Various very simple projects and practices to get familiar with:
  - I/Os and peripherals
   -  Switches, buttons, LED, 7-seg, PS2, VGA, Audio Video I/O, ADC, USB, UART, GPIO, Accelerometer
  - Protocols
   - RS-232, JTAG, I2C, Ethernet, VGA
 
-## Projects
+### Projects
 Actual Projects that I'm doing (in the near future).
