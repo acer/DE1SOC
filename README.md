@@ -13,4 +13,4 @@ Various very simple projects and practices to get familiar with:
   - RS-232, JTAG, I2C, Ethernet, VGA
 
 ### Projects
-Actual Projects that I'm doing (in the near future).
+-Typewriter Printer (https://github.com/acer/typewriter-printer)
